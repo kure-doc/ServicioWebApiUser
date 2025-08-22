@@ -1,0 +1,6 @@
+@ServicioWebApiUser_HostAddress = http://localhost:5232
+
+GET {{ServicioWebApiUser_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
