@@ -189,4 +189,4 @@ Contacto
 
 Si tienes preguntas o sugerencias, no dudes en abrir un issue o enviar un pull request.
 
-¡Si te gusta el proyecto, dale una ⭐ en GitHub!
+¡Si te gusta el proyecto, dale una estrellita en GitHub!
